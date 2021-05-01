@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# hello
+the name's tai. thanks for visiting my site i guess, here you'll find some random shit and my socials.
 
-You can use the [editor on GitHub](https://github.com/taipog/tai/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## random shit and my socials
+[youtube](https://youtube.com/c/taiisepic)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[spotify](https://open.spotify.com/user/0uh9mpim2zpjro7hike0lq5wn?si=rMt6o_yNQUu4k47TV1xvuQ&utm_source=copy-link)
 
-### Markdown
+[twitter](https://twitter.com/bruhtai)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[tiktok](https://vm.tiktok.com/ZMeQXNaj9/)
 
-```markdown
-Syntax highlighted code block
+[discord server](https://discord.com/invite/MhMxwAP6Yj)
 
-# Header 1
-## Header 2
-### Header 3
+[reddit](https://www.reddit.com/u/taiepic)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/taipog/tai/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
